@@ -34,4 +34,6 @@ DIRETORIOS = {
     "Imagens": [".jpg", ".png", ".webp"],
     "Trabalho": [".pdf", ".xlsx"]
 }
-'''
+```
+
+Desenvolvido como um exemplo de automação eficiente para tarefas repetitivas.
